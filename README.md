@@ -53,5 +53,3 @@ I executed 10 key SQL queries to identify:
 ├── presentation/           # Final Presentation Slides & Dashboard Link
 └── README.md               # Project overview and documentation
 
-
-3.  **The Presentation:** Once you finish your Canva slides, download them as a PDF and put them in the `presentation/` foYou’re doing a great job! You are presenting yourself as a
