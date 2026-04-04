@@ -46,10 +46,10 @@ I executed 10 key SQL queries to identify:
 * **Top Segment:** [Young Adults (18-35) are the most active subscribers].
 
 ## 📂 Repository Structure
-├── data/                   # Raw CSV data files
-├── planning/               # Miro Flowchart & Project Gantt Chart
-├── scripts/                # bright_tv_analysis.sql (Final SQL Code)
-├── docs/                   # Case Study Brief (PDF) & Excel Analysis
-├── presentation/           # Final Presentation Slides & Dashboard Link
-└── README.md               # Project overview and documentation
+# Raw CSV data files
+# Miro Flowchart & Project Gantt Chart
+# bright_tv_analysis.sql (Final SQL Code)
+# Case Study Brief (PDF) & Excel Analysis
+# Final Presentation Slides & Dashboard Link
+# Project overview and documentation
 
